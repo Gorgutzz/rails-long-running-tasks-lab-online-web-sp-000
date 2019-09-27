@@ -43,6 +43,8 @@ GEM
     arel (7.1.4)
     binding_of_caller (0.8.0)
       debug_inspector (>= 0.0.1)
+    bootsnap (1.4.4)
+      msgpack (~> 1.0)
     builder (3.2.3)
     capybara (3.13.2)
       addressable
