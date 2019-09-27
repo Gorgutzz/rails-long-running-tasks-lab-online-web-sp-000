@@ -188,6 +188,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  bootsnap
   capybara
   faker
   jbuilder (~> 2.0)
